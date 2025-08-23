@@ -1,0 +1,8 @@
+/.direnv
+.env
+
+*.zip
+*.webp
+*.jpg
+*.mp4
+*.png
