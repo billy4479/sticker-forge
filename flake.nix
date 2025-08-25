@@ -33,6 +33,8 @@
             imagemagick
             curl
             ffmpeg
+            rush-parallel
+            findutils
           ];
         };
       }
